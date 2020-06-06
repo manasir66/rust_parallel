@@ -1,1 +1,1 @@
-# Rust Exercises from Operating Systems Moduel
+# Rust Exercises from Operating Systems Module
